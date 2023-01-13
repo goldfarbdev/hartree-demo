@@ -1,0 +1,28 @@
+.carousel-item {
+  text-align: center;
+  img {
+    margin: 0 auto;
+  }
+}
+.carousel{
+  background: black;
+  min-height: 450px;
+}
+.tab-content {
+  background-color: white!important;
+  > .container {
+    img {
+      max-width: 400px;
+      text-align: center;
+    }
+  }
+}
+
+.tab-images {
+  overflow-x: auto;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  img {
+    width: 65px;
+  }
+}

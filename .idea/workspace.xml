@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adff048f-625a-4306-b07c-1d378741b3e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stories/ProductsDemo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/ProductsDemo.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Tabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/Tabs.stories.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/tabs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/tabs.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +18,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/App.css" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/ProductsDemo.stories.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/ProductsDemo.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Header.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Header.stories.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Page.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/App.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Page.stories.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Button.jsx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/App.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/tabs.scss" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Tabs.stories.jsx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/assets/data.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/stories/Tabs.jsx" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2KESi7plGsIcBhzMT5qLqN3YtzY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,7 +66,7 @@
       <updated>1673538373382</updated>
       <workItem from="1673538384751" duration="16000" />
       <workItem from="1673538456865" duration="19055000" />
-      <workItem from="1673565649783" duration="3465000" />
+      <workItem from="1673565649783" duration="4854000" />
     </task>
     <servers />
   </component>
